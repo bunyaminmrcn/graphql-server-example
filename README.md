@@ -12,3 +12,6 @@ Next click the blue `GetBooks` button to see result.
 
 #### Recommended Extension:
 - GraphQL.vscode-graphql-syntax
+- tomoki1207.pdf
+
+Open the main doc if prefer
